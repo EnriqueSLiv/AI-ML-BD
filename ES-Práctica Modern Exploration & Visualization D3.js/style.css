@@ -1,0 +1,46 @@
+rect.Country {
+    fill:green;
+    fill-opacity: 0.8;
+    stroke: black;
+    stroke-width: 2px;
+}
+
+.Brazil {
+    fill: green;
+    stroke: blue;
+}
+
+.Italy {
+    fill: green;
+    stroke: red;
+}
+
+.Germany {
+    fill: black;
+    stroke: red;
+}
+
+.Argentina {
+    fill: blue;
+    stroke: yellow;
+}
+
+.France {
+    fill: blue;
+    stroke: red;
+}
+
+.Uruguay {
+    fill: cadetblue;
+    stroke: white;
+}
+
+.Spain {
+    fill: red;
+    stroke: yellow;
+}
+
+.England {
+    fill: white;
+    stroke: red;
+}
